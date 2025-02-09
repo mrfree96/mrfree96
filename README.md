@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CrewAI, Langchain, LangGraph, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrfree96/mrfree96/](https://github.com/mrfree96/mrfree96/)
+- 👨‍💻 All of my projects are available at [https://github.com/mrfree96/](https://github.com/mrfree96/mrfree96/)
 
 - 💬 Ask me about **LLM & Natural Language Processing & Turkish NLP**
 
