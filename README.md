@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfree96&label=Profile%20views&color=0e75b6&style=flat" alt="mrfree96" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrfree96" alt="mrfree96" /></a> </p>
-
 - 🌱 I’m currently learning **CrewAI, Langchain, LangGraph, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrfree96/](https://github.com/mrfree96/mrfree96/)
